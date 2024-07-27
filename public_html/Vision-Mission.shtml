@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js has-loader"> <!--<![endif]-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+<title>STRUC TREE ENGINEERING PVT LTD</title>
+
+<!-- Favicon -->
+	<link rel="shortcut icon" href="images/favicon.png" type="image/ico">
+
+<!-- CSS Stylesheets -->
+	<link id="default-css" rel="stylesheet" href="style.css" type="text/css">
+    <link id="shortcodes-css" rel="stylesheet" href="css/shortcodes.css" type="text/css">
+	<link id="responsive-css" rel="stylesheet" href="css/responsive.css" type="text/css">
+	<link id="skin-css" rel="stylesheet" href="skins/electricblue/style.css" type="text/css">
+    
+<!-- Additional Stylesheets -->    
+    <link rel="stylesheet" href="css/component.css" type="text/css">
+    <link href="css/pace-theme-loading-bar.css" rel="stylesheet" media="all" />        
+         
+<!-- Google fonts -->  
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+
+<!-- Font Awesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+    <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script> 	
+
+</head>
+
+<body>
+	<!-- **Wrapper** -->
+ 	<div class="wrapper">
+    
+     <!--#include file = "header.html"-->                 
+        
+        <!-- **Main** -->        
+		<div id="main">
+        	
+            <div class="breadcrumb-section">
+                <!--<div class="container">
+	                <h1>Vision/Mission</h1>
+						<div class="breadcrumb">
+							<a href="index.html" title="">Home</a> / <span>Vision/Mission</span>
+						</div>
+                </div>-->
+            </div> 
+            
+			<!-- **Content Main** -->
+            <section class="content-main">
+            	<!-- **Container** -->                  
+                <div class="container">
+                    <!-- **Primary** -->
+					<div class="dt-sc-one-half column first">
+						<img class="aligncenter" src="images/vision.jpg" alt="device-image">
+					</div> 
+					
+					<div class="dt-sc-one-half column">
+						
+						<div class="ico-content-wrapper type2 frameless">
+							<div class="ico-content">
+								
+								<h3>Vision</h3>
+								<p>To become a lead in Design and detailing industry by providing diversified quality services to clients and giving healthy environment to our employees.</p>
+								<br/><br/>
+								<h2>Mission</h2> 
+								<p>To provide quality design and detail services to clients globally with effective utilization.</p>
+							</div>
+						</div>
+					</div>     
+            </section>  <!-- **Content Main Ends** -->
+			
+                        
+        </div> <!-- **Main Ends** --> 
+        
+			<!--- Footer Starts ---->           
+				<!--#include file = "footer.html"-->
+            <!-- **Footer Ends** -->        
+        
+        
+    </div> <!-- **Wrapper Ends** --> 
+    
+	<!-- **jQuery** -->
+
+	<script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.2.1.min.js"></script>
+    
+    <script type="text/javascript" src="js/pace.min.js"></script>
+        
+    <script type="text/javascript" src="js/jquery.sticky.js"></script>    
+    <script type="text/javascript" src="js/jquery.dlmenu.js"></script>
+	<script type="text/javascript" src="js/inview.js"></script>
+	<script type="text/javascript" src="js/jquery.ui.totop.min.js"></script>    
+	<script type="text/javascript" src="js/twitter/jquery.tweet.min.js"></script>
+    
+	<script type="text/javascript" src="js/jquery-easing-1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.carouFredSel-6.2.0-packed.js"></script>
+
+    <script src="js/jquery.validate.min.js"></script>
+    
+	<script type="text/javascript" src="js/custom.js"></script>     
+    
+</body>
+</html>

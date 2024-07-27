@@ -1,0 +1,438 @@
+<!DOCTYPE HTML>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js has-loader"> <!--<![endif]-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+<title>STRUCTREE ENGINEERING PVT LTD</title>
+
+<!-- Favicon -->
+	<link rel="shortcut icon" href="images/favicon.png" type="icon">
+
+<!-- CSS Stylesheets -->
+	<link id="default-css" rel="stylesheet" href="style.css" type="text/css">
+    <link id="shortcodes-css" rel="stylesheet" href="css/shortcodes.css" type="text/css">
+	<link id="responsive-css" rel="stylesheet" href="css/responsive.css" type="text/css">
+	<link id="skin-css" rel="stylesheet" href="skins/electricblue/style.css" type="text/css">
+    
+<!-- Additional Stylesheets -->    
+    <link rel="stylesheet" href="css/component.css" type="text/css">
+    <link href="css/pace-theme-loading-bar.css" rel="stylesheet" media="all" />
+         
+<!-- Google fonts -->  
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+
+<!-- Font Awesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+	<link rel="stylesheet" id="rs-plugin-settings-css"  href="css/settings.css" type="text/css" media="all" />    
+
+    <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script> 
+    
+    <script type="text/javascript">
+	var mytheme_urls = {
+ 		scroll : 'disable'
+	};
+	</script>     	
+
+</head>
+
+<body>
+	<!-- **Wrapper** -->
+ 	<div class="wrapper">
+    
+       <!--#include file = "header.html"-->                 
+        
+        <!-- **Main** -->        
+		<div id="main">
+                
+			<!-- **Slider Section** -->
+			<div id="slider">
+                
+				<!-- START REVOLUTION SLIDER 4.5.95 fullscreen mode -->
+				<div id="rev_slider_24_1_wrapper" class="rev_slider_wrapper fullscreen-container" style="padding:0px;">
+					<div id="rev_slider_24_1" class="rev_slider fullscreenbanner" style="display:none;">
+						<ul>	
+                          <!-- SLIDE  -->
+							<li class="rs-slide1" data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+								<img src="images/Projects/fdsfa.jpg" alt="bg3"  data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="110" data-bgpositionend="center bottom">
+							</li>
+                        
+							<!-- SLIDE  -->
+							<li class="rs-slide2" data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+								<img  src="images/Projects/sdfgs.jpg" alt="bg2"  data-bgposition="center bottom" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="110" data-bgpositionend="center top">
+							</li> 
+
+								<li class="rs-slide2" data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+								<img  src="images/Projects/fgsf.jpg" alt="bg2"  data-bgposition="center bottom" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="110" data-bgpositionend="center top">
+							</li> 							
+                        
+							<!-- SLIDE  -->
+							<!--<li class="rs-slide3" data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" >
+								<img  src="images/header2.jpg" alt="bg1"  data-bgposition="center center" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="110" data-bgpositionend="center center">
+							</li>-->                                                      
+						</ul>
+                                
+						<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
+                          
+					</div>
+				</div><!-- END REVOLUTION SLIDER -->
+			</div><!-- **Slider Section - End** --> 
+                                                   
+            <!-- **Content Main** -->
+            <section class="content-main">     
+                <!-- **Primary** -->
+                <div class="content-full-width" id="primary">                  
+                                                
+                    <div class="fullwidth-section">
+                        <div class="fullwidth-bg">	  
+                            <div class="container">
+                                                                            
+                                <div class="dt-sc-one-half column first">
+                                    <img class="aligncenter" src="images/Aboutus.jpg" alt="device-image">   
+                                </div>
+                                  
+                                <div class="dt-sc-one-half column first" style="padding-left:20px">
+									<h2><strong style="color:#333;font-size:32px">About Us</strong></h2>
+									<p><b>STRUCTREE ENGINEERING PVT LTD (STE)</b> an Engineering Organization is fast growing and specialist in complete Design &amp; Detail Engineering Services for
+									different Steel structures, concrete structures, Masonry and Timber structures. Our engineers, from the structural design and detailing engineering industry, with a cumulative professional experience exceeding 10 years. At StrucTree, embracing
+									a framework of integration and collaboration, our team has made a remarkable achievement in the structural engineering industry. <a href="about.shtml" target="_blank"><strong style="color:#63a6d2;font-size:18px">Read More</strong></a></p>
+                                </div>
+                                  
+                                <div class="dt-sc-hr-invisible-medium"></div>
+                                <div class="dt-sc-clear"></div>                                                          
+                        
+                            </div>
+                        </div>
+                    </div> 
+
+					<div class="fullwidth-section white-gray">
+                        <div class="fullwidth-bg">	  
+                            <div class="container">
+                    
+								<h2 class="hr-border-title center"><span>Services</span></h2>
+                                        
+                                <div class="dt-sc-hr-invisible-small"></div>
+                                <div class="dt-sc-clear"></div>                                                                  
+                                                                
+                                <div class="column dt-sc-one-third  first">
+                                    <div class="ico-content-wrapper type2">
+                                        <div class="ico-content">
+                                            <img src="images/steel.jpg">
+                                            <h3 style="padding-top:10px">Structural Steel</h3>
+                                           <p>We design and detail Structural steel structures ranging from simple to very high complex structures.
+										   Our structural design and detailing teams. <a href="structural.shtml" target="_blank"><strong style="color:#63a6d2;font-size:15px"> Read More</strong></p>
+									  </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="column dt-sc-one-third">
+                                    <div class="ico-content-wrapper type2">                        
+                                        <div class="ico-content">
+                                            <img src="images/Pemb.jpg">
+                                            <h3 style="padding-top:10px">Pemb</h3>
+                                            <p>We design and detail Pre-Engineered Metal Buildings and Hybrid Structures ranging from simple to very high complex structures. 
+											<a href="Pemb.shtml" target="_blank"><strong style="color:#63a6d2;font-size:15px"> Read More</strong></p>
+										</div>
+									</div>
+                                </div>
+                                
+                                <div class="column dt-sc-one-third">
+                                    <div class="ico-content-wrapper type2">                        
+                                        <div class="ico-content">
+                                            <img src="images/Projects/concrete.jpg">
+                                            <h3 style="padding-top:20px">Concrete Structures</h3>
+											<p>STE will develop structural concepts for all parts of the project and determine appropriate design criteria  
+											<a href="Concrete.shtml" target="_blank"><strong style="color:#63a6d2;font-size:15px"> Read More</strong></p>                                      
+										</div>
+                                    </div>
+                                </div> <br/>       
+
+								 <div class="column dt-sc-one-third first" style="padding-top:35px">
+                                    <div class="ico-content-wrapper type2">
+                                        <div class="ico-content">
+                                            <img src="images/wood.jpg">
+                                            <h3 style="padding-top:55px">Wood Structures Services</h3>
+                                           <p>STE develops the wood structural design and drawings for Single Family units, Multi family units, commercial structures and office structures etc.</p>
+											<a href="Wood.shtml" target="_blank"><strong style="color:#63a6d2;font-size:15px"> Read More</strong></p>         
+										</div>
+                                    </div>
+                                </div>
+                                
+								  <div class="column dt-sc-one-third" style="padding-top:35px">
+                                    <div class="ico-content-wrapper type2">                        
+                                        <div class="ico-content">
+                                            <img src="images/foundation.jpg">
+                                            <h3>Foundation</h3>
+                                            <p>The team at SGES is aimed at making your commercial construction projects more manageable. That is why our foundation engineers 
+											<a href="Foundation.shtml" target="_blank"><strong style="color:#63a6d2;font-size:15px"> Read More</strong></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="dt-sc-hr-invisible-large"></div>
+                                <div class="dt-sc-clear"></div>   
+                            </div>
+                        </div>
+                    </div>                                                  
+                            
+                 
+                                
+                    <div class="fullwidth-section">
+                        <div class="fullwidth-bg">
+                            <div class="container">    
+                            
+                                <div class="dt-sc-hr-invisible-medium"></div>
+                                <div class="dt-sc-clear"></div>           
+
+								
+                                
+                                <h2 class="hr-border-title"><span><a href="Projects.shtml" target="_blank">Projects</a></span></h2>
+                                
+                                <!-- **Portfolio Carousel Wrapper** -->
+                                <div class="carousel-wrapper">
+                                    <div class="carousel-arrows">
+                                        <a href="#" title="" class="prev-arrow"> <span class="fa fa-chevron-left"> </span> </a>
+                                        <a href="#" title="" class="next-arrow"> <span class="fa fa-chevron-right"> </span> </a>
+                                    </div>
+                                    
+                                    <!-- **Portfolio Carousel** -->
+                                    <ul class="portfolio-carousel carousel_items">
+                                        <li class="portfolio dt-sc-one-third column">
+                                            <div class="portfolio-thumb">
+                                                <img src="images/Projects/elite_vistas_gate.jpg" alt="gallery-thumb1">
+                                            </div>
+                                            <div class="portfolio-detail">
+                                                <h3> <a href="Projects.shtml" title=""> Elite vistas office, Hyderabad </a> </h3>
+                                            </div>
+                                        </li>
+                                       
+                                        <li class="portfolio dt-sc-one-third column">
+                                            <div class="portfolio-thumb">
+                                                <img src="images/Projects/LR Mill, Gauhathi, Assam-1.jpg" alt="gallery-thumb1">
+                                            </div>
+                                            <div class="portfolio-detail">
+                                                <h3> <a href="Projects.shtml" title=""> LR Mill, Gauhathi, Assam  </a> </h3>
+                                            </div>
+                                        </li>
+										
+										 <li class="portfolio dt-sc-one-third column">
+                                            <div class="portfolio-thumb">
+                                               <img src="images/Projects/Trishakthi_Agro.jpg" alt="gallery-thumb1">
+                                            </div>
+                                            <div class="portfolio-detail">
+                                                <h3> <a href="Projects.shtml" title=""> Trishakthi Agro Works, Odisha  </a> </h3>
+                                            </div>
+                                        </li> 
+                                        <li class="portfolio dt-sc-one-third column">
+                                            <div class="portfolio-thumb">
+                                                <img src="images/Projects/shivasai_RESIDENCY.jpg " alt="gallery-thumb1">
+                                            </div>
+                                            <div class="portfolio-detail">
+                                                <h3> <a href="Projects.shtml" title=""> SHIVA SAI RESIDENCY, Hyderabad </a> </h3>
+                                            </div>
+                                        </li>
+                                        
+                                    </ul><!-- **Portfolio Carousel - End** -->
+                                </div><!-- **Portfolio Carousel Wrapper - End** -->     
+
+
+								
+                                
+                                <div class="dt-sc-hr-invisible"></div>
+                                <div class="dt-sc-clear"></div>                                                  
+                          
+                            </div>
+                        </div>
+                    </div>                       
+                                
+                </div> <!-- **Primary Ends** -->                  
+            </section>  <!-- **Content Main Ends** -->            
+        
+                  
+        </div> <!-- **Main Ends** --> 
+        
+        <!-- footer -->
+			<!--#include file="footer.html"--->
+        <!-- footer end -->
+        
+    </div> <!-- **Wrapper Ends** --> 
+    
+	<!-- **jQuery** -->
+
+	<script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+    
+    <script type="text/javascript" src="js/pace.min.js"></script>    
+    
+    <script type="text/javascript" src="js/jquery.sticky.js"></script>    
+    <script type="text/javascript" src="js/jquery.dlmenu.js"></script>
+	<script type="text/javascript" src="js/inview.js"></script>
+	<script type="text/javascript" src="js/jquery.tabs.min.js"></script>
+    <script type="text/javascript" src="js/jquery.tipTip.minified.js"></script>
+	<script type="text/javascript" src="js/jquery.donutchart.js"></script>
+	<script type="text/javascript" src="js/jquery.ui.totop.min.js"></script>    
+	<script type="text/javascript" src="js/twitter/jquery.tweet.min.js"></script>
+    
+	<script type="text/javascript" src="js/jquery-easing-1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+
+	<script type="text/javascript" src="js/jquery.carouFredSel-6.2.0-packed.js"></script>
+	<script type="text/javascript" src="js/jquery.fitvids.js"></script>        
+	<script type="text/javascript" src="js/jquery.bxslider.js"></script>
+    
+    <script type="text/javascript" src="js/jquery.animateNumber.min.js"></script>    
+	<script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>    
+
+    <script type="text/javascript" src="js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="js/custom.js"></script>     
+    
+	<script type="text/javascript" src="js/revslider/jquery.themepunch.tools.min.js"></script>
+	<script type="text/javascript" src="js/revslider/jquery.themepunch.revolution.min.js"></script>      
+        
+	
+	<script type="text/javascript">
+
+        /******************************************
+            -	PREPARE PLACEHOLDER FOR SLIDER	-
+        ******************************************/
+        
+
+        var setREVStartSize = function() {
+            var	tpopt = new Object();
+                tpopt.startwidth = 1170;
+                tpopt.startheight = 900;
+                tpopt.container = jQuery('#rev_slider_24_1');
+                tpopt.fullScreen = "on";
+                tpopt.forceFullWidth="off";
+
+            tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+        };
+
+        /* CALL PLACEHOLDER */
+        setREVStartSize();
+
+
+        var tpj=jQuery;
+        tpj.noConflict();
+        var revapi24;
+
+        tpj(document).ready(function() {
+
+        if(tpj('#rev_slider_24_1').revolution == undefined)
+            revslider_showDoubleJqueryError('#rev_slider_24_1');
+        else
+           revapi24 = tpj('#rev_slider_24_1').show().revolution(
+            {
+                dottedOverlay:"none",
+                delay:9000,
+                startwidth:1170,
+                startheight:900,
+                hideThumbs:200,
+
+                thumbWidth:100,
+                thumbHeight:50,
+                thumbAmount:3,
+
+                navigationType:"none",
+                navigationArrows:"solo",
+                navigationStyle:"round",
+
+                touchenabled:"on",
+                onHoverStop:"off",
+
+                swipe_velocity: 0.7,
+                swipe_min_touches: 1,
+                swipe_max_touches: 1,
+                drag_block_vertical: false,
+                
+                keyboardNavigation:"off",
+
+                navigationHAlign:"center",
+                navigationVAlign:"bottom",
+                navigationHOffset:0,
+                navigationVOffset:20,
+
+                soloArrowLeftHalign:"left",
+                soloArrowLeftValign:"center",
+                soloArrowLeftHOffset:20,
+                soloArrowLeftVOffset:0,
+
+                soloArrowRightHalign:"right",
+                soloArrowRightValign:"center",
+                soloArrowRightHOffset:20,
+                soloArrowRightVOffset:0,
+
+                shadow:0,
+                fullWidth:"off",
+                fullScreen:"on",
+
+                spinner:"spinner0",
+
+                stopLoop:"off",
+                stopAfterLoops:-1,
+                stopAtSlide:-1,
+                shuffle:"off",
+                
+                forceFullWidth:"off",
+                fullScreenAlignForce:"off",
+                minFullScreenHeight:"",
+                hideTimerBar:"on",
+                hideThumbsOnMobile:"off",
+                hideNavDelayOnMobile:1500,
+                hideBulletsOnMobile:"off",
+                hideArrowsOnMobile:"off",
+                hideThumbsUnderResolution:0,
+
+                fullScreenOffsetContainer: "",
+                fullScreenOffset: "",
+                hideSliderAtLimit:0,
+                hideCaptionAtLimit:0,
+                hideAllCaptionAtLilmit:0,
+                startWithSlide:0
+				});
+				
+        });	/*ready*/
+
+    </script>
+    
+	<script type="text/javascript">
+		
+		jQuery(window).load(function() {
+			
+			//PAGE SLIDER...
+			if(jQuery('.right-slide').length) {
+				jQuery('.right-slide').each(function(){
+					var $this = jQuery(this).find('.page-slider');
+					$this.carouFredSel({
+						responsive: true,
+						auto: false,
+						width: '100%',
+						height: 'auto',
+						scroll: {
+							fx: "uncover-fade",
+							duration: 800
+						},
+						items: { width: $this.find("li").width(),  visible: { min: 1, max: 1 } },
+						pagination: {
+							container: ".right-slide-nav-links",
+							anchorBuilder: false
+						}
+					});
+				});		
+			}	
+			
+		});
+	
+	</script>  
+    
+</body>
+</html>

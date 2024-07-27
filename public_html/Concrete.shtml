@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js has-loader"> <!--<![endif]-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+<title>STRUC TREE ENGINEERING PVT LTD</title>
+
+<!-- Favicon -->
+	<link rel="shortcut icon" href="images/favicon.png" type="image/ico">
+
+<!-- CSS Stylesheets -->
+	<link id="default-css" rel="stylesheet" href="style.css" type="text/css">
+    <link id="shortcodes-css" rel="stylesheet" href="css/shortcodes.css" type="text/css">
+	<link id="responsive-css" rel="stylesheet" href="css/responsive.css" type="text/css">
+	<link id="skin-css" rel="stylesheet" href="skins/electricblue/style.css" type="text/css">
+    
+<!-- Additional Stylesheets -->    
+    <link rel="stylesheet" href="css/component.css" type="text/css">
+    <link href="css/pace-theme-loading-bar.css" rel="stylesheet" media="all" />        
+         
+<!-- Google fonts -->  
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+
+<!-- Font Awesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+    <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script> 	
+
+</head>
+
+<body>
+	<!-- **Wrapper** -->
+ 	<div class="wrapper">
+    
+    	<!--#include file = "header.html"-->            
+      
+        <!-- **Main** -->         
+		<div id="main">
+        	<!-- **Breadcrumb Section** -->
+            <div class="breadcrumb-section">
+                <!--<div class="container">
+	                <h1>Concrete Structures</h1>
+                        <div class="breadcrumb">
+                        	<a href="index.html" title="">Home</a> / <span>Concrete Structures</span>
+                        </div>
+                </div>-->
+            </div> <!-- **Breadcrumb Section Ends** -->
+            
+            <!-- **Content Main** -->
+            <section class="content-main">
+            	<!-- **Container** -->                  
+                <div class="container">
+                    <!-- **Primary** -->
+					<div class="dt-sc-one-half column first">
+						<img class="aligncenter" src="images/concrete.jpg" alt="device-image">
+					</div> 
+					
+					<div class="dt-sc-one-half column">
+						<div class="ico-content-wrapper type2 frameless">
+							<div class="ico-content">
+								<h3>Concrete Structures</h3>
+								<p>STE will develop structural concepts for all parts of the project and determine appropriate design criteria for the project. The structural engineering team familiarise themselves with the Client objectives and then start to develop the engineering design basis and principles. A Concept Design report will be provided to allow the client to review progress and approve the way forward for Detailed Design.</p><br/> 
+								<p>The goal is to produce Detailed Design/Tender Design documentation that will sufficiently describe the project requirements and allow the Client to carry out a competitive tender process for the structural engineering works of the project. Finally Construction Drawings / GFCs/Working drawings are published.</p><br/>
+								<p>STE gives design and drawings for retrofitting to existing structure by analysing existing conditions and structure stability, gives proper strengthening process. We do foundation underpinning for existing structure foundations (Red brick foundations, CMU foundations and Concrete foundations).</p>
+							</div>
+						</div>
+					</div>   
+				
+					<div class="dt-sc-four-fifth column">
+						<div class="ico-content-wrapper type2 frameless">
+							<div class="ico-content">
+								<h3>Our Expertise:</h3>
+								<ul  style="list-style-type:disc">
+									<li>Residential Buildings such as Apartments, Duplex houses, Community houses etc</li>
+									<li>Commercial Buildings such as Hotel, Office Buildings, shopping malls, Retail Malls, Multiplex theatres etc</li>
+									<li>Institutional Buildings such as Schools, Educational institutions, Hostels etc.</li>
+									<li>Overhead Tanks, Retaining walls, Shear walls, Culverts, sub ways etc.</li>
+									<li>Foundation for all type of structures from normal foundation to Raft (Mat) foundation, Pile foundation etc.</li>
+									<li>Foundation for all equipment’s like Turbines, Compressors, vertical and Horizontal vessels etc.</li>
+									<li>Sheeting and shoring of large excavations</li>
+									<li>Underpinning design complying with DCRA specific requirements</li>
+									<li>Foundations in difficult subsoil conditions </li>
+									<li>Retrofitting engineering on Code compliance of existing structures for occupancy or load change</li>
+									<li>Retro fitting engineering on Externally bounded fiber reinforced polymer strengthening of existing concrete</li>
+									<li>Retro fitting engineering on Post consolidated clay soil analysis</li>
+								</ul>
+							</div>
+						</div>
+					</div>   
+				</div>
+				</div>
+          
+            </section>  <!-- **Content Main Ends** -->
+                           
+                         
+        </div> <!-- **Main Ends** --> 
+        
+        <!--- Footer Starts ---->           
+				<!--#include file = "footer.html"-->
+            <!-- **Footer Ends** -->             
+        
+    </div> <!-- **Wrapper Ends** --> 
+    
+	<!-- **jQuery** -->
+
+	<script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.2.1.min.js"></script>
+    
+    <script type="text/javascript" src="js/pace.min.js"></script>
+
+    <script type="text/javascript" src="js/jquery.sticky.js"></script>    
+    <script type="text/javascript" src="js/jquery.dlmenu.js"></script>
+	<script type="text/javascript" src="js/inview.js"></script>
+	<script type="text/javascript" src="js/jquery.ui.totop.min.js"></script>    
+	<script type="text/javascript" src="js/twitter/jquery.tweet.min.js"></script>
+    
+	<script type="text/javascript" src="js/jquery-easing-1.3.js"></script>
+
+	<script type="text/javascript" src="js/jquery.carouFredSel-6.2.0-packed.js"></script>
+
+    <script src="js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="js/custom.js"></script> 
+    
+	<script type="text/javascript" src="js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="js/controlpanel.js"></script>  
+    
+</body>
+</html>

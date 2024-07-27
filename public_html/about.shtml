@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js has-loader"> <!--<![endif]-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+<title>STRUCTREE ENGINEERING PVT LTD</title>
+
+<!-- Favicon -->
+	<link rel="shortcut icon" href="images/favicon.png" type="image/ico">
+
+<!-- CSS Stylesheets -->
+	<link id="default-css" rel="stylesheet" href="style.css" type="text/css">
+    <link id="shortcodes-css" rel="stylesheet" href="css/shortcodes.css" type="text/css">
+	<link id="responsive-css" rel="stylesheet" href="css/responsive.css" type="text/css">
+	<link id="skin-css" rel="stylesheet" href="skins/electricblue/style.css" type="text/css">
+    
+<!-- Additional Stylesheets -->    
+    <link rel="stylesheet" href="css/component.css" type="text/css">
+    <link href="css/pace-theme-loading-bar.css" rel="stylesheet" media="all" />        
+         
+<!-- Google fonts -->  
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+
+<!-- Font Awesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+    <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script> 	
+
+</head>
+
+<body>
+	<!-- **Wrapper** -->
+ 	<div class="wrapper">
+    
+		<!--#include file = "header.html"-->                           
+        
+        <!-- **Main** -->        
+		<div id="main">
+        	
+            <div class="breadcrumb-section">
+                <!--<div class="container">
+	                <h1>About</h1>
+						<div class="breadcrumb">
+							<a href="index.html" title="">Home</a> / <span>About</span>
+						</div>
+4            </div> 
+            
+            <!-- **Content Main** -->
+            <section class="content-main">
+            	<!-- **Container** -->                  
+                <div class="container">
+                    <!-- **Primary** -->
+					<div class="dt-sc-one-half column first">
+						<img class="aligncenter" src="images/Aboutus.jpg" alt="device-image">
+					</div> 
+					
+					<div class="dt-sc-one-half column">
+						<div class="ico-content-wrapper type2 frameless">
+							<div class="ico-content">
+								<h2>About Us</h2>
+								<p><b>STRUCTREE ENGINEERING PVT LTD (STE)</b> an Engineering Organization is fast growing and specialist in complete Design &amp; Detail Engineering Services for
+								different Steel structures, concrete structures, Masonry and Timber structures. Our engineers, from the structural design and detailing engineering industry, with a cumulative professional experience exceeding 10 years. At StrucTree, embracing
+								a framework of integration and collaboration, our team has made a remarkable achievement in the structural engineering industry.</p>
+								<p style="padding-top:10px">The practice at <b>STE</b> is founded on the basis of providing creative, innovative and a high-quality service to our clients. Our end-to-end, cost-effective
+								and reliable services minimize risks and improve the quality and valuation of the project. We deploy modern techniques to its full potential to make an impact on
+								the work flow. We work in close collaboration with our clients and believe in forging a long-term relationship with them.</p>
+							</div>
+						</div>
+					</div>   
+					
+					<p>We offer our consultancy for the various Structural Design and Detail Engineering services in Pre-Engineering Metal Buildings, Structural Steel Buildings,
+						Concrete Structures, Masonry &amp; Wood structures ranging from simple to complex. We do Structural analysis and design in FEM Software, approval drawing, modeling and detailing in relative softwares.</p>
+				</div>
+            </section>  <!-- **Content Main Ends** -->
+
+		
+			<!--- Footer Starts ---->           
+				<!--#include file = "footer.html"-->
+            <!-- **Footer Ends** -->        
+        
+        
+    </div> <!-- **Wrapper Ends** --> 
+    
+	<!-- **jQuery** -->
+
+	<script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.2.1.min.js"></script>
+    
+    <script type="text/javascript" src="js/pace.min.js"></script>
+        
+    <script type="text/javascript" src="js/jquery.sticky.js"></script>    
+    <script type="text/javascript" src="js/jquery.dlmenu.js"></script>
+	<script type="text/javascript" src="js/inview.js"></script>
+	<script type="text/javascript" src="js/jquery.ui.totop.min.js"></script>    
+	<script type="text/javascript" src="js/twitter/jquery.tweet.min.js"></script>
+    
+	<script type="text/javascript" src="js/jquery-easing-1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.carouFredSel-6.2.0-packed.js"></script>
+
+    <script src="js/jquery.validate.min.js"></script>
+    
+	<script type="text/javascript" src="js/custom.js"></script>     
+    
+</body>
+</html>

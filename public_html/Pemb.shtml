@@ -1,0 +1,164 @@
+<!DOCTYPE HTML>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js has-loader"> <!--<![endif]-->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+<title>STRUC TREE ENGINEERING PVT LTD</title>
+
+<!-- Favicon -->
+	<link rel="shortcut icon" href="images/favicon.png" type="image/ico">
+
+<!-- CSS Stylesheets -->
+	<link id="default-css" rel="stylesheet" href="style.css" type="text/css">
+    <link id="shortcodes-css" rel="stylesheet" href="css/shortcodes.css" type="text/css">
+	<link id="responsive-css" rel="stylesheet" href="css/responsive.css" type="text/css">
+	<link id="skin-css" rel="stylesheet" href="skins/electricblue/style.css" type="text/css">
+    
+<!-- Additional Stylesheets -->    
+    <link rel="stylesheet" href="css/component.css" type="text/css">
+    <link href="css/pace-theme-loading-bar.css" rel="stylesheet" media="all" />        
+         
+<!-- Google fonts -->  
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700' rel='stylesheet' type='text/css'>
+
+<!-- Font Awesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+    <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script> 	
+
+</head>
+
+<body>
+	<!-- **Wrapper** -->
+ 	<div class="wrapper">
+    
+	<!--#include file = "header.html"-->            
+       
+       <!-- **Main** -->         
+		<div id="main">
+        	<!-- **Breadcrumb Section** -->
+            <div class="breadcrumb-section">
+                  <!--<div class="container">
+	                  <h1>Pre Engineered Building Structures</h1>
+                      <div class="breadcrumb">
+                      	<a href="index.html" title="">Home</a> / <span>Pre Engineered Building Structures</span>
+                      </div>
+                  </div>-->
+            </div> <!-- **Breadcrumb Section Ends** -->
+            
+            <!-- **Content Main** -->
+            <section class="content-main">
+            	<!-- **Container** -->                  
+                <div class="container">
+                    <!-- **Primary** -->
+					<div class="dt-sc-one-half column first">
+						<img class="aligncenter" src="images/Pemb.jpg" alt="device-image">
+					</div> 
+					
+					<div class="dt-sc-one-half column">
+						<div class="ico-content-wrapper type2 frameless">
+							<div class="ico-content">
+								<h3>Pre Engineered Building Structures</h3>
+								<p>We design and detail Pre-Engineered Metal Buildings and Hybrid Structures ranging from simple to very high complex structures. Our PEMB/PEB design and detailing teams together make a winning combination in handling any kind of PEMB structures. <br/><br/>
+									Our experienced resources are well versed in AISC, ASCE-7, AISI, NAUS, IBC, MBMA, ASD and LRFD standards and practices. Our designers, Modelers, detailers and checkers have very potential and knowledge on handling PEMB projects including Frames (Clear spans, Multi spans, Multi Gable, T-Canopy, Lean to, L canopy etc.),Crane supports (Over-head cranes, Mono rails, Under hung cranes, Zip cranes, Wall mounted cranes, Semi gantry cranes) , </P>
+							</div>
+						</div>
+					</div> 
+					
+					<p>Mezzanines (Concrete floors, Chequered plate, grating etc.), Clerestories (Structures above main structures for aesthetic purpose), Roof monitors,  Jack beams,  Canopies (Flush or bypass), roof extensions (Eave or gable, flush or bypass), Wind rated doors, Industrial louvers, Staircases, Hip and valley roofs, Lintels (Supporting brick veneers) etc. Overall, we can Design, Detail for PEMB/PEB or any other combination of services.</p>
+				</div>   
+				
+				<!-- **Container** -->                  
+                <div class="container">
+                    <!-- **Primary** -->
+					<div class="dt-sc-four-fifth column">
+						<h3 style="padding-top:35px">Our Team :</h3>
+						<ul  style="list-style-type:disc">
+							<li>Experienced Designers, Detailers, Modellers, Checkers & Project Managers</li>
+							<li>A robust team, experienced and trained on international standards like – AISC ASD and LRFD, NAUS, AISI, ASCE-7, IBC, MBMA, NISD, CISC etc.</li>
+							<li>Exclusive Account Manager for every customer</li>
+							<li>Centrally managed project planning and control</li>
+							<li>In the event of a complex and large job, our concerned project managers are at the client sites to ensure quality</li>
+							<li>Our teams ensure there is 24/7 communication for client satisfaction</li>
+							<li>Our clients are regularly updated regarding their project status through conference calls and emails</li>
+						</ul>
+					</div> 
+					
+					<div class="dt-sc-two-fifth column">
+						<h3 style="padding-top:35px;">Our Expertise :</h3>
+						<ul  style="list-style-type:disc">
+							<li>Aircraft Hangars</li>
+							<li>Warehouses</li>
+							<li>Factories</li>
+							<li>Manufacturing facilities</li>
+							<li>Indoor Stadiums</li>
+							<li>Commercial and Retail Centres</li>
+							<li>Gas stations</li>
+							<li>Churches</li>
+							<li>Schools</li>
+							<li>Office Buildings</li>
+							<li>Agriculture building</li>
+							<li>Railway Platform Shelters</li>
+							<li>Cold Form Structures</li>
+						</ul>
+					</div>
+					 
+					<div class="dt-sc-one-half column">
+						<h3 style="padding-top:35px">Our Deliverables:</h3>
+						<ul  style="list-style-type:disc">
+							<li>Design files including calculations</li>
+							<li>Design basis reports</li>
+							<li>Design drawings for review</li>
+							<li>Structure weight comparison sheet (Estimated weight vs Design weight)</li>
+							<li>Approval drawings with scale</li>
+							<li>Shop drawings along with shipper</li>
+							<li>Shop drawings checker files with red marks</li>
+							<li>Construction drawings with clear part marks</li>
+							<li>Plasma Files and detailing base files</li>
+						</ul>
+					</div>
+					
+				</div>
+           
+            </section>  <!-- **Content Main Ends** -->
+			
+			
+			
+            	
+           
+			
+        </div> <!-- **Main Ends** --> 
+        
+			<!--- Footer Starts ---->           
+				<!--#include file = "footer.html"-->
+            <!-- **Footer Ends** -->               
+        
+    </div> <!-- **Wrapper Ends** --> 
+	
+
+	<!-- **jQuery** -->
+	<script src="js/jquery.js"></script>
+    <script src="js/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="js/pace.min.js"></script>
+    <script type="text/javascript" src="js/jquery.sticky.js"></script>    
+    <script type="text/javascript" src="js/jquery.dlmenu.js"></script>
+	<script type="text/javascript" src="js/inview.js"></script>
+	<script type="text/javascript" src="js/jquery.ui.totop.min.js"></script>    
+	<script type="text/javascript" src="js/twitter/jquery.tweet.min.js"></script>
+	<script type="text/javascript" src="js/jquery-easing-1.3.js"></script>
+	<script type="text/javascript" src="js/jquery.carouFredSel-6.2.0-packed.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+	<script type="text/javascript" src="js/custom.js"></script> 
+	<script type="text/javascript" src="js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="js/controlpanel.js"></script>  
+    
+</body>
+</html>
